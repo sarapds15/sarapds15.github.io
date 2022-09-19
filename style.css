@@ -1,0 +1,35 @@
+h1{
+    font-family: "Roboto", sans-serif;
+    color: rgb(94, 128, 127);
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(96, 49, 64);
+    font-size: 25px;
+}
+body{
+    background-color: rgb(206, 181, 183);
+}
+ul{
+    font-size: 20px;
+}
+.steelTeal{
+    background-color: rgb(94, 128, 127);
+}
+.juneBud{
+    background-color: rgb(197, 216, 109);
+}
+.teaGreen{
+    background-color: rgb(202, 226, 188);
+}
+img {
+    border-radius: 50%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
